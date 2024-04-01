@@ -4,7 +4,6 @@
 # Basic Site Settings
 title: Vinit Shah
 description: Machine Learning, Signal Processing
-theme: jekyll-theme-minimal
 locale                   : "en-US"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -12,6 +11,8 @@ description              : &description "personal description"
 url                      : https://Wiinvin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Wiinvin/Wiinvin.github.io"
+
+theme: jekyll-theme-minimal
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -139,38 +140,38 @@ author:
 #   enable_coderay: false
 
 
-# # Collections
-# collections:
-#   publications:
-#     output: true
-#     permalink: /:collection/:path/
-#   portfolio:
-#     output: true
-#     permalink: /:collection/:path/
-#   projects:
-#     output: true
-#     permalink: /:collection/:path/
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
-# # Defaults
-# defaults:
-#   # _publications
-#   - scope:
-#       path: ""
-#       type: publications
-#     values:
-#       layout: single
-#       author_profile: true
-#       share: true
-#       comments: true
-#   # _portfolio
-#   - scope:
-#       path: ""
-#       type: portfolio
-#     values:
-#       layout: single
-#       author_profile: true
-#       share: true
-#       comment: true
+# Defaults
+defaults:
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 
 # # Outputting
