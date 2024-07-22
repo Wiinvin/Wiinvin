@@ -12,7 +12,7 @@ url                      : https://Wiinvin.github.io # the base hostname & proto
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Wiinvin.github.io/Wiinvin"
 
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
