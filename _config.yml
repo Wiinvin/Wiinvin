@@ -5,10 +5,10 @@
 title: Vinit Shah
 logo: ./docs/assets/images/1712083718457.jpeg
 description: Machine Learning, Digital Signal Processing
-#locale                   : "en-US"
-#title_separator          : "-"
-#name                     : &name "Your Name"
-#description              : &description "personal description"
+locale                   : "en-US"
+title_separator          : "-"
+name                     : &name "Vinit Shah"
+description              : &description "personal description"
 url                      : https://Wiinvin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Wiinvin.github.io/Wiinvin"
