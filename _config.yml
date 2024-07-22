@@ -9,9 +9,9 @@ description: Machine Learning, Digital Signal Processing
 #title_separator          : "-"
 #name                     : &name "Your Name"
 #description              : &description "personal description"
-#url                      : https://Wiinvin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Wiinvin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
-#repository               : "Wiinvin/Wiinvin.github.io"
+repository               : "Wiinvin.github.io/Wiinvin"
 
 theme: jekyll-theme-minimal
 
@@ -30,7 +30,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=rg4_NWEAAAAJ&hl=en"
   orcid            : #"http://orcid.org/yourorcidurl"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 
@@ -39,7 +39,7 @@ author:
   kaggle           : "Wiinvin" # Username  
 
   # Social media
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/vinit-shah-660569b7"
   # soundcloud       : # Username
   # youtube          : # Username
 
