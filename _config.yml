@@ -13,7 +13,7 @@ url                      : https://Wiinvin.github.io # the base hostname & proto
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Wiinvin.github.io/Wiinvin"
 
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "California"
-  # employer         : "Red Brick University"
+  employer         : "Temple University"
   uri              : # URL
 
   # Academic websites
@@ -141,38 +141,7 @@ author:
 #   enable_coderay: false
 
 
-# Collections
-collections:
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /:collection/:path/
 
-# Defaults
-defaults:
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
 
 
 # # Outputting
