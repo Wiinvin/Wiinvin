@@ -4,7 +4,7 @@
 # Basic Site Settings
 title: Vinit Shah
 logo: ./docs/assets/images/1712083718457.jpeg
-description: Machine Learning, Signal Processing
+description: Machine Learning, Digital Signal Processing
 #locale                   : "en-US"
 #title_separator          : "-"
 #name                     : &name "Your Name"
@@ -30,7 +30,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=rg4_NWEAAAAJ&hl=en"
   orcid            : #"http://orcid.org/yourorcidurl"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 
@@ -39,7 +39,7 @@ author:
   kaggle           : "Wiinvin" # Username  
 
   # Social media
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/vinit-shah-660569b7"
   # soundcloud       : # Username
   # youtube          : # Username
 
